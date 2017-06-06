@@ -1,11 +1,11 @@
-ARTICLE I 
-NAME
-1.01   Name
+# ARTICLE I 
+## NAME
+### 1.01 Name
 The name of this corporation shall be Towson Makerspace Company. The business of the corporation may be conducted as Towson Makerspace Company or Towson Makerspace.
  
-ARTICLE II
-PURPOSES AND POWERS
-2.01 Purpose
+# ARTICLE II
+## PURPOSES AND POWERS
+### 2.01 Purpose
 Towson Makerspace Company is a non-profit corporation and shall be operated exclusively for educational and charitable purposes within the meaning of Section 501 (c)(3) of the Internal Revenue Code of 1986, or the corresponding section of any future Federal tax code.
 Towson Makerspaces purpose is to address, educate, coordinate, DIY high technology on a local and global level.
 We provide education by giving free lectures in schools, libraries, and other public venues as well as utilizing social media channels and the corporation’s website to provide facts, statistics, and other related data.
@@ -13,13 +13,16 @@ Our programs include sending out ambassadors to raise social consciousness about
 To maximize our impact on current efforts, we may seek to collaborate with other non-profit organizations which fall under the 501(c) (3) section of the internal revenue code and are operated exclusively for educational and charitable purposes.
 At times, per the discretion of the board of directors, we may provide internships or volunteer opportunities which shall provide opportunities for involvement in said activities and programs in order to have a greater impact for change.
  
-2.02 Powers  
+### 2.02 Powers  
 The corporation shall have the power, directly or indirectly, alone or in conjunction or cooperation with others, to do any and all lawful acts which may be necessary or convenient to affect the charitable purposes, for which the corporation is organized, and to aid or assist other organizations or persons whose activities further accomplish, foster, or attain such purposes.  The powers of the corporation may include, but not be limited to, the acceptance of contributions from the public and private sectors, whether financial or in-kind contributions.
  
-2.03 Nonprofit Status and Exempt Activities Limitation.
-(a) Nonprofit Legal Status.  Towson Makerspace Company is a Maryland non-profit public education corporation, recognized as tax exempt under Section 501(c)(3) of the United States Internal Revenue Code.
-(b) Exempt Activities Limitation.  Notwithstanding any other provision of these Bylaws, no director, officer, employee, member, or representative of this corporation shall take any action or carry on any activity by or on behalf of the corporation not permitted to be taken or carried on by an organization exempt under Section 501(c)(3) of the Internal Revenue Code as it now exists or may be amended, or by any organization contributions to which are deductible under Section 170(c)(2) of such Code and Regulations as it now exists or may be amended.  No part of the net earnings of the corporation shall inure to the benefit or be distributable to any director, officer, member, or other private person, except that the corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purposes set forth in the Articles of Incorporation and these Bylaws.
-(c) Distribution Upon Dissolution.  Upon termination or dissolution of the Towson Makerspace Company, any assets lawfully available for distribution shall be distributed to one (1) or more qualifying organizations described in Section 501(c)(3) of the 1986 Internal Revenue Code (or described in any corresponding provision of any successor statute) which organization or organizations have a charitable purpose which, at least generally, includes a purpose similar to the terminating or dissolving corporation.
+### 2.03 Nonprofit Status and Exempt Activities Limitation.
+
+#### (a) Nonprofit Legal Status.  Towson Makerspace Company is a Maryland non-profit public education corporation, recognized as tax exempt under Section 501(c)(3) of the United States Internal Revenue Code.
+
+#### (b) Exempt Activities Limitation.  Notwithstanding any other provision of these Bylaws, no director, officer, employee, member, or representative of this corporation shall take any action or carry on any activity by or on behalf of the corporation not permitted to be taken or carried on by an organization exempt under Section 501(c)(3) of the Internal Revenue Code as it now exists or may be amended, or by any organization contributions to which are deductible under Section 170(c)(2) of such Code and Regulations as it now exists or may be amended.  No part of the net earnings of the corporation shall inure to the benefit or be distributable to any director, officer, member, or other private person, except that the corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purposes set forth in the Articles of Incorporation and these Bylaws.
+
+#### (c) Distribution Upon Dissolution.  Upon termination or dissolution of the Towson Makerspace Company, any assets lawfully available for distribution shall be distributed to one (1) or more qualifying organizations described in Section 501(c)(3) of the 1986 Internal Revenue Code (or described in any corresponding provision of any successor statute) which organization or organizations have a charitable purpose which, at least generally, includes a purpose similar to the terminating or dissolving corporation.
 The organization to receive the assets of the Towson Makerspace Company hereunder shall be selected in the discretion of a majority of the managing body of the corporation, and if its members cannot so agree, then the recipient organization shall be selected pursuant to a verified petition in equity filed in a court of proper jurisdiction against the Towson Makerspace Company, by one (1) or more of its managing body which verified petition shall contain such statements as reasonably indicate the applicability of this section. The court upon a finding that this section is applicable shall select the qualifying organization or organizations to receive the assets to be distributed, giving preference if practicable to organizations located within the State of Montana.
 In the event that the court shall find that this section is applicable but that there is no qualifying organization known to it which has a charitable purpose, which, at least generally, includes a purpose similar to the Towson Makerspace Company, then the court shall direct the distribution of its assets lawfully available for distribution to the Treasurer of the State of Maryland to be added to the general fund.
  
