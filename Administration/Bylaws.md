@@ -94,7 +94,7 @@ Directors are not restricted from being remunerated for professional services pr
 ## COMMITTEES
  
 ### 5.01 Committees
-The board of directors may, by the resolution adopted by a majority of the directors then in office, designate one or more committees, each consisting of two or more directors, to serve at the pleasure of the board.  Any committee, to the extent provided in the resolution of the board, shall have all the authority of the board, except that no committee, regardless of board resolution, may:
+The board of directors may, by the resolution adopted by a majority of the directors then in office, designate one or more committees, each consisting of two or more directors chosen by the board, to serve at the pleasure of the board. The board of directors may, by the resolution adopted by a majority of the directors then in office, disolve one or more committees.  Any committee, to the extent provided in the resolution of the board, shall have all the authority of the board, except that no committee, regardless of board resolution, may:
 (a)   take any final action on matters which also requires board members’ approval or approval of a majority of all members;
 (b)   fill vacancies on the board of directors of in any committee which has the authority of the board;
 (c)   amend or repeal Bylaws or adopt new Bylaws;
