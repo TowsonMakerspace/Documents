@@ -79,9 +79,11 @@ A director may be removed by two-thirds (?) vote of the board of directors then 
 A majority of the directors in office immediately before a meeting shall constitute a quorum for the transaction of business at that meeting of the board. No business shall be considered by the board at any meeting at which a quorum is not present.
 #### (b) Majority Vote.  
 Except as otherwise required by law or by the articles of incorporation, the act of the majority of the directors present at a meeting at which a quorum is present shall be the act of the board.
-#### (C) Hung Board Decisions. 
+#### (c) Authority of the Board
+When a vote is decided by 2/3 (including absentee ballot) or greater, shall be the act of the board.
+#### (d) Hung Board Decisions. 
 On the occasion that directors of the board are unable to make a decision based on a tied number of votes, the president or treasurer in the order of presence shall have the power to swing the vote based on his/her discretion.
-#### (d) Participation.  
+#### (e) Participation.  
 Except as required otherwise by law, the Articles of Incorporation, or these Bylaws, directors may participate in a regular or special meeting through the use of any means of communication by which all directors participating may simultaneously hear each other during the meeting, including in person, internet video meeting or by telephonic conference call.
  
 ### 4.09 Compensation for Board Service
