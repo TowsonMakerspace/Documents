@@ -138,7 +138,7 @@ The secretary shall keep or cause to be kept a book of minutes of all meetings a
 The treasurer shall be the lead director for oversight of the financial condition and affairs of the corporation.  The treasurer shall oversee and keep the board informed of the financial condition of the corporation and of audit or financial review results.  In conjunction with other directors or officers, the treasurer shall oversee budget preparation and shall ensure that appropriate financial reports, including an account of major transactions and the financial condition of the corporation, are made available to the board of directors on a timely basis or as may be required by the board of directors.  The treasurer shall perform all duties properly required by the board of directors or the board president.  The treasurer may appoint, with approval of the board a qualified fiscal agent or member of the staff to assist in performance of all or part of the duties of the treasurer.
  
 ### 6.08 Non-Director Officers
-The board of directors may designate additional officer positions of the corporation and may appoint and assign duties to other non-director officers of the corporation.
+The authority of the board of directors may designate additional officer positions of the corporation and may appoint and assign duties to other non-director officers of the corporation.
  
 # ARTICLE VII
 ## CONTRACTS, CHECKS, LOANS, INDEMNIFICATION AND RELATED MATTERS
