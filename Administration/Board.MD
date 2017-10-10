@@ -9,10 +9,10 @@
 * Ryan Walter 
 * ryan@towsonmaker.space
 
-Secretary
+# Secretary
 * Vacant
 
-Treasurer
+# Treasurer
 * Alexander Manasseh
 * alex@towsonmaker.space
 
